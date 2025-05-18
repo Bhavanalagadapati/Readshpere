@@ -17,7 +17,7 @@ Public Library is a comprehensive library management application designed and de
 To get started with Public Library, follow these steps:
 
 1. **Clone the Repository:**
-git clone https://github.com/CharithaAdikari/Library-Management-App
+git clone https://github.com/Bhavanalagadapati/Readshpere.git
 
 
 2. **Open in Android Studio:**
