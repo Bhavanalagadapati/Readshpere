@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="@font/poppins_semibold"
-            android:text="WELCOME TO THE LIBRARY"
+            android:text="WELCOME TO READSPHERE"
             android:textAlignment="center"
             android:textColor="@color/white" />
     </LinearLayout>
